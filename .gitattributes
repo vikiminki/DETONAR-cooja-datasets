@@ -1,0 +1,9 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+90_percent_successrate_BR.zip filter=lfs diff=lfs merge=lfs -text
+90_percent_successrate_sniffer.zip filter=lfs diff=lfs merge=lfs -text
+995_percent_successrate_BR.zip filter=lfs diff=lfs merge=lfs -text
+995_percent_successrate_sniffer.zip filter=lfs diff=lfs merge=lfs -text
+99_percent_successrate_BR.zip filter=lfs diff=lfs merge=lfs -text
+99_percent_successrate_sniffer.zip filter=lfs diff=lfs merge=lfs -text
+100_percent_succesrate_sniffer.zip filter=lfs diff=lfs merge=lfs -text
+100_percent_successrate_BR.zip filter=lfs diff=lfs merge=lfs -text
